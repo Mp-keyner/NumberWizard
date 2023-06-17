@@ -1,12 +1,29 @@
 {
   "name": "numberwizard",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "**NumberWizard** es un módulo de JavaScript que proporciona una colección de funciones matemáticas para realizar cálculos y operaciones numéricas de manera sencilla. Está diseñado para ser fácil de usar y comprender, ofreciendo a los desarrolladores o publico a usar una amplia gama de funcionalidades matemáticas para sus proyectos.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "Math",
+    "Mathematics",
+    "Matematicas",
+    "Suma",
+    "Resta",
+    "Division",
+    "Multiplicacion",
+    "Basico"
+  ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mp-keyner/NumberWizard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mp-keyner/NumberWizard/issues"
+  },
+  "homepage": "https://github.com/Mp-keyner/NumberWizard#readme"
 }
