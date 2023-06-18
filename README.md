@@ -17,13 +17,13 @@ Características clave:
 Puedes instalar el **NumberWizard** utilizando npm. Asegúrate de tener Node.js instalado en tu sistema y ejecuta el siguiente comando:
 
 ```
-npm install nombre-del-paquete
+npm i numberwizard
 ```
 
 Una vez instalado, puedes importar las funciones matemáticas en tu código y comenzar a utilizarlas:
 
 ```javascript
-const { sum, multiply, sqrt } = require('nombre-del-paquete');
+const { sum, multiply, sqrt } = require('numberwizard');
 
 console.log(sum(2, 3)); // Output: 5
 console.log(multiply(4, 5)); // Output: 20
